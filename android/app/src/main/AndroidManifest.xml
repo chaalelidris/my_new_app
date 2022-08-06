@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.app.my_new_app">
+    package="com.minafarid.advanced_flutter_arabic">
    <application
-        android:label="my_new_app"
+        android:label="advanced_flutter_arabic"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
